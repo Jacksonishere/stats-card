@@ -8,7 +8,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/44249712/129511263-f246cff5-816a-4806-ba81-5256f9a04858.png)
 
 ### Links
 
